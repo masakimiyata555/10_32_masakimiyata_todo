@@ -1,0 +1,37 @@
+body {
+  background: url("../nekorobu.gif") center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'M PLUS Rounded 1c';
+}
+
+p{
+  font-size:15px;
+  color: white;
+}
+h1{
+  font-size: 40px;
+  color: aliceblue;
+}
+
+button{
+background: blue;
+    height: 32px;
+    width: 101px;
+    color: white;
+    margin: 21px;
+}
+
+u
+.shinuyotei{
+  font-size: 20px;
+}
+
+.todo{
+  font-size:20px;
+}
+
+.zentei{
+    font-size:20px;
+  
+}
